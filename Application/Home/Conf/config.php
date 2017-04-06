@@ -9,4 +9,3 @@ return array(
     'DB_PREFIX'             =>  'think_',    // 数据库表前缀
     'DB_CHARSET'            =>  'utf8',      // 数据库编码默认采用utf8
 );
-?>
